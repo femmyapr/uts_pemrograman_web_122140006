@@ -1,0 +1,27 @@
+.wishlist-btn {
+    margin-top: 10px;
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .wishlist-btn:hover {
+    background-color: #ff5252;
+  }
+  
+  .wishlist-section {
+    margin-top: 40px;
+    background-color: #fff3f3;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .wishlist-section h3 {
+    color: #ff6b6b;
+    margin-bottom: 10px;
+  }
+  
